@@ -17,6 +17,6 @@ A Python-based project that uses NLP and machine learning to generate and detect
 * Streamlit
 
 # Features
-Fake news generator
-Fake news detection
-Interactive web interface
+* Fake news generator
+* Fake news detection
+* Interactive web interface
